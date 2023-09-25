@@ -1,6 +1,6 @@
 import './App.css';
 
-let currDate= new Date();
+let currDate= new Date(2023,9,18,13);
 currDate=currDate.getHours();
 let greeting='';
 const cssStyle={};
